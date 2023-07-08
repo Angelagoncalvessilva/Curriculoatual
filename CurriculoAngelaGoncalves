@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CurriculoAngelaGoncalves</title>
+</head>
+<body>
+    <section>
+  <h1>Angela Gonçalves</h1>
+  <br>
+  <img src="assets/imagens/perfil.jpeg"
+  width="100"
+  alt="Foto do perfil">
+    </section>
+    <ul>
+  <li>Valparaiso de Goias - GO</li>
+  <li>E-mail: angelagonsalves16@gmail.com</li>
+  <li>Telefone: +55 (61)982948784</li>
+  <li>Github: https://github.com/Angelagoncalves</li>
+  <li>Linkedln:https: //www.linkedin.com./in/angelagoncalvessilva</li>
+    </ul>
+    <section>
+        <h2>Objetivo: Estagio em TI, Analista de QA, Testes,  Dev</h2>
+    </section>
+    <ul>
+        <h3>Resumo:</h3>
+        <li>Experiência com testes manuais e automatizados de WEB. Atualmente trabalho com testes. Minhas principais atuações são com planejamento e execução de testes manuais, desenvolvimento de testes automatizados WEB e participação ativa nas melhorias de processo de desenvolvimento na equipe em que atuo. Sou apaixonada por agile testing e automação de testes, gosto de compartilhar conhecimento e influenciar pessoas sobre a qualidade, responsabilidade e compromisso que temos com tudo o que nos propomos a fazer. </li>
+        <br>
+        <h4>Experiencia Proficional:</h4>
+        <li>Cursando Análise e Desenvolvimento de Sistema, Faculdade Estácio de SÁ a ser concluído em 12/2024. </li>
+
+        <h4>Esperiencia Proficional:</h4>
+        <li>Empresa - ONR- Operadora Nacional de Registro Data de admissão - 21/11/2022 – atual. 
+            <br>
+        <li>Cargo - Analista de Suporte</li
+        ><li>Atividades e resultados - Minhas principais atuações são com planejamento e execução de testes manuais, desenvolvimento de testes automatizados WEB e participação ativa nas melhorias de processo de desenvolvimento na equipe em que atuo.
+        <h5>Formação Complementar</h5>
+
+        <li>Domínio em testes ágeis e automação de testes WEB;</li>
+        <li>Experiência em testes Web;</li> 
+        <li>HTML5, CSS3 e JavaScript; </li>
+        <li>Frameworks: Robot Framework com selenium;</li>
+          </ul>
+  </body>
+</html>
